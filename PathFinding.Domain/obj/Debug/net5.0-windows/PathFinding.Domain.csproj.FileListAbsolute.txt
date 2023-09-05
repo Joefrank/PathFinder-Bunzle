@@ -1,0 +1,12 @@
+C:\Tutorials\Azure\PathFinder\PathFinding.Domain\bin\Debug\net5.0-windows\PathFinding.Domain.deps.json
+C:\Tutorials\Azure\PathFinder\PathFinding.Domain\bin\Debug\net5.0-windows\PathFinding.Domain.dll
+C:\Tutorials\Azure\PathFinder\PathFinding.Domain\bin\Debug\net5.0-windows\ref\PathFinding.Domain.dll
+C:\Tutorials\Azure\PathFinder\PathFinding.Domain\bin\Debug\net5.0-windows\PathFinding.Domain.pdb
+C:\Tutorials\Azure\PathFinder\PathFinding.Domain\obj\Debug\net5.0-windows\PathFinding.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tutorials\Azure\PathFinder\PathFinding.Domain\obj\Debug\net5.0-windows\PathFinding.Domain.AssemblyInfoInputs.cache
+C:\Tutorials\Azure\PathFinder\PathFinding.Domain\obj\Debug\net5.0-windows\PathFinding.Domain.AssemblyInfo.cs
+C:\Tutorials\Azure\PathFinder\PathFinding.Domain\obj\Debug\net5.0-windows\PathFinding.Domain.csproj.CoreCompileInputs.cache
+C:\Tutorials\Azure\PathFinder\PathFinding.Domain\obj\Debug\net5.0-windows\PathFinding.Domain.dll
+C:\Tutorials\Azure\PathFinder\PathFinding.Domain\obj\Debug\net5.0-windows\ref\PathFinding.Domain.dll
+C:\Tutorials\Azure\PathFinder\PathFinding.Domain\obj\Debug\net5.0-windows\PathFinding.Domain.pdb
+C:\Tutorials\Azure\PathFinder\PathFinding.Domain\obj\Debug\net5.0-windows\PathFinding.Domain.csproj.AssemblyReference.cache

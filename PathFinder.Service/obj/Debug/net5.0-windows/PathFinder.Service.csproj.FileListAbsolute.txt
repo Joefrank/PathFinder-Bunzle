@@ -1,0 +1,15 @@
+C:\Tutorials\Azure\PathFinder\PathFinder.Service\bin\Debug\net5.0-windows\PathFinder.Service.deps.json
+C:\Tutorials\Azure\PathFinder\PathFinder.Service\bin\Debug\net5.0-windows\PathFinder.Service.dll
+C:\Tutorials\Azure\PathFinder\PathFinder.Service\bin\Debug\net5.0-windows\ref\PathFinder.Service.dll
+C:\Tutorials\Azure\PathFinder\PathFinder.Service\bin\Debug\net5.0-windows\PathFinder.Service.pdb
+C:\Tutorials\Azure\PathFinder\PathFinder.Service\obj\Debug\net5.0-windows\PathFinder.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tutorials\Azure\PathFinder\PathFinder.Service\obj\Debug\net5.0-windows\PathFinder.Service.AssemblyInfoInputs.cache
+C:\Tutorials\Azure\PathFinder\PathFinder.Service\obj\Debug\net5.0-windows\PathFinder.Service.AssemblyInfo.cs
+C:\Tutorials\Azure\PathFinder\PathFinder.Service\obj\Debug\net5.0-windows\PathFinder.Service.csproj.CoreCompileInputs.cache
+C:\Tutorials\Azure\PathFinder\PathFinder.Service\obj\Debug\net5.0-windows\PathFinder.Service.dll
+C:\Tutorials\Azure\PathFinder\PathFinder.Service\obj\Debug\net5.0-windows\ref\PathFinder.Service.dll
+C:\Tutorials\Azure\PathFinder\PathFinder.Service\obj\Debug\net5.0-windows\PathFinder.Service.pdb
+C:\Tutorials\Azure\PathFinder\PathFinder.Service\bin\Debug\net5.0-windows\PathFinding.Domain.dll
+C:\Tutorials\Azure\PathFinder\PathFinder.Service\bin\Debug\net5.0-windows\PathFinding.Domain.pdb
+C:\Tutorials\Azure\PathFinder\PathFinder.Service\obj\Debug\net5.0-windows\PathFinder.Service.csproj.AssemblyReference.cache
+C:\Tutorials\Azure\PathFinder\PathFinder.Service\obj\Debug\net5.0-windows\PathFinder.Service.csproj.CopyComplete
